@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-presets-react-native",
+  "capabilityKey": "liberusoftware/music-presets",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-music-presets-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/music/nextjs/presets.md",
+  "presentationPlan": "projects/music/react-native/presets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
